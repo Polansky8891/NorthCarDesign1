@@ -1,0 +1,43 @@
+#logo-photo {
+    float:left;
+}
+.main-title {
+    margin-left: 100px;
+}
+.button-home a {
+    color:black;
+    font-size: 20px;
+    padding: 3px 16px;
+    border-right: 2px solid blue;
+  }
+.button-about a {
+    color: black;
+    font-size: 20px;
+    padding: 3px 16px;
+    margin-left: -2px;
+    border-right: 2px solid blue;
+}
+.button-contact a {
+    color:black;
+    font-size: 20px;
+    padding: 3px 16px;
+}
+#top-menu {
+    margin-left: -20px;
+}
+#car-photo {
+    float: left;
+    margin-top: 20px;
+    margin-left: -87px;
+}
+.info-below {
+    float: left;
+    
+}
+.section-info {
+    float:left;
+    margin-left: 20px;
+}
+ul#top-menu li{
+    display: inline;
+}
